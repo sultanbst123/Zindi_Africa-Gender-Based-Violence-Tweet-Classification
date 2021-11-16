@@ -9,7 +9,7 @@ Tujuan dari tantangan ini adalah membuat algoritme pembelajaran mesin yang mengk
 Membersihkan dataset lalu mengunakan Transformers Distilbert(karena kuat, cepat), ditambah bi-lstm(LSTM dua arah). 
 
 untuk lebih lanjut silahkan liat di notebook yang saya buat: 
-
+https://github.com/sultanbst123/Zindi_Africa-Gender-Based-Violence-Tweet-Classification/blob/main/Classification_tweet_kekerasan.ipynb
 
 ## Information & Dataset 
 https://zindi.africa/competitions/gender-based-violence-tweet-classification-challenge
